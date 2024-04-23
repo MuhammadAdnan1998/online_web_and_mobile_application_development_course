@@ -17,10 +17,10 @@
 
 - HTML5
   - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Wiley.HTML.and.CSS.Oct.2011.pdf)
-  - [Other Resouce](https://www.w3schools.com/html/default.asp)
+  - [For more detailed information](https://www.w3schools.com/html/default.asp)
 - CSS3
   - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/css3/Wiley.HTML.and.CSS.Oct.2011.pdf)
-  - [Other Resouce](https://www.w3schools.com/css/default.asp)
+  - [For more detailed information](https://www.w3schools.com/css/default.asp)
 - CSS Variables
   - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
 - CSS Animations
@@ -60,7 +60,7 @@
 
 - JavaScript
   - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
-  - [Other Resouce](https://www.w3schools.com/js/default.asp)
+  - [For more detailed information](https://www.w3schools.com/js/default.asp)
   - [Assignments]()
 - Advanced Javascript (All ES Versions)
   - Variable Scoping
