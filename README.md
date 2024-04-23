@@ -5,6 +5,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
 ## Module 1: Web Designing
+|                |                     |
 | -------------- | ------------------- |
 | Pre-requisites | Matriculation       |
 | Duration       | 2 Months - 48 Hours |
@@ -15,9 +16,9 @@
 ### Topics
 
 - HTML5
-  - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS3
-  - [Book](https://github.com/ghousahmed/Books/blob/master/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/css3/Wiley.HTML.and.CSS.Oct.2011.pdf)
 - CSS Variables
   - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
 - CSS Animations
@@ -56,8 +57,8 @@
 ### Topics
 
 - JavaScript
-  - [Book](https://github.com/ghousahmed/Books/blob/master/ASmarterWaytoLearnJavaScript.pdf)
-  - [Assignments](https://github.com/ghousahmed/javascript-exercises)
+  - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
+  - [Assignments]()
 - Advanced Javascript (All ES Versions)
   - Variable Scoping
   - Closure
