@@ -59,8 +59,8 @@
 ### Topics
 
 - JavaScript
-  - [Book1](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
-  - [Book2](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript%20from%20Beginner%20to%20Professional.pdf)
+  - [Book-1 || A Smarter Way to Learn JavaScript](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
+  - [Book-2 || JavaScript from Beginner to Professional](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript%20from%20Beginner%20to%20Professional.pdf)
 
   - [For more detailed information](https://www.w3schools.com/js/default.asp)
   - [Assignments]()
