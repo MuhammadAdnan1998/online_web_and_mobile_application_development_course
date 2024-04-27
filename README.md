@@ -16,10 +16,16 @@
 ### Topics
 
 - HTML5
-  - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book-1 || Design and Build Websites by Jon Duckett](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book-2 || Jump Start HTML5](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Jump%20Start%20HTML5.pdf)
+  - [Book-3 || HTML5 & CSS3 For The Real World](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/HTML5%20%26%20CSS3%20FOR%20THE%20REAL%20WORLD.pdf)
+  - [Book-4 || Web Programming with HTML5, CSS, and JavaScript](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Web%20Programming%20with%20HTML5%2C%20CSS%2C%20and%20JavaScript.pdf)
+
+
+
   - [For more detailed information](https://www.w3schools.com/html/default.asp)
 - CSS3
-  - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/css3/Wiley.HTML.and.CSS.Oct.2011.pdf)
+  - [Book-1 || Design and Build Websites by Jon Duckett](https://github.com/MuhammadAdnan1998/Books/blob/main/html5/Wiley.HTML.and.CSS.Oct.2011.pdf)
   - [For more detailed information](https://www.w3schools.com/css/default.asp)
 - CSS Variables
   - [W3schools](https://www.w3schools.com/css/css3_variables.asp)
@@ -61,6 +67,9 @@
 - JavaScript
   - [Book-1 || A Smarter Way to Learn JavaScript](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
   - [Book-2 || JavaScript from Beginner to Professional](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript%20from%20Beginner%20to%20Professional.pdf)
+  - [Book-3 || The Modern JavaScript (2022)](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
+  - [Book-4 ||   JavaScript for Impatient Programmers (ES2022 edition)](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
+
 
   - [For more detailed information](https://www.w3schools.com/js/default.asp)
   - [Assignments]()
