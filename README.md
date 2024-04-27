@@ -59,7 +59,9 @@
 ### Topics
 
 - JavaScript
-  - [Book](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
+  - [Book1](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript.pdf)
+    - [Book2](https://github.com/MuhammadAdnan1998/Books/blob/main/javascript/JavaScript%20from%20Beginner%20to%20Professional.pdf)
+
   - [For more detailed information](https://www.w3schools.com/js/default.asp)
   - [Assignments]()
 - Advanced Javascript (All ES Versions)
